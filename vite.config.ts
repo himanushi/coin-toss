@@ -42,8 +42,6 @@ export default defineWorkersConfig(async ({ mode }) => {
           "react",
           "react-dom",
           "react-router-dom",
-          "@ionic/react",
-          "@ionic/react-router",
           "@tanstack/react-query",
           "@tanstack/react-query-persist-client",
         ],
