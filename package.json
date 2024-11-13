@@ -1,5 +1,5 @@
 {
-  "name": "coin-toss",
+  "name": "coin-toss-battle",
   "type": "module",
   "scripts": {
     "ai": "echo 'LLM 相談用' && node ./scripts/copyFiles.js",
